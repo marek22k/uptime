@@ -1,36 +1,155 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: marek22k
+repo: uptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: p2p-node.de SSH
     check: "tcp-ping"
-    ipv6: true
+    url: p2p-node.de
+    port: 22
+
+  - name: p2p-router.de SSH
+    check: "tcp-ping"
+    url: p2p-router.de
+    port: 22
+
+  - name: herzstein.mk16.de SSH
+    check: "tcp-ping"
+    url: herzstein.mk16.de
+    port: 22
+
+  - name: aurora.mk16.de SSH
+    check: "tcp-ping"
+    url: aurora.mk16.de
+    port: 22
+
+  - name: palerme.mk16.de SSH
+    check: "tcp-ping"
+    url: palerme.mk16.de
+    port: 22
+
+  - name: silvermoon.mk16.de SSH
+    check: "tcp-ping"
+    url: silvermoon.mk16.de
+    port: 22
+
+  - name: laplace.mk16.de SSH
+    check: "tcp-ping"
+    url: laplace.mk16.de
+    port: 22
+
+  - name: stricker.mk16.de SSH
+    check: "tcp-ping"
+    url: stricker.mk16.de
+    port: 22
+
+  - name: trolljaeger.mk16.de SSH
+    check: "tcp-ping"
+    url: trolljaeger.mk16.de
+    port: 22
+
+  - name: frostwood.mk16.de SSH
+    check: "tcp-ping"
+    url: frostwood.mk16.de
+    port: 22
+
+  - name: reseau.mk16.de SSH
+    check: "tcp-ping"
+    url: reseau.mk16.de
+    port: 22
+
+  - name: grisha.mk16.de SSH
+    check: "tcp-ping"
+    url: grisha.mk16.de
+    port: 22
+
+  - name: mikhail.mk16.de SSH
+    check: "tcp-ping"
+    url: mikhail.mk16.de
+    port: 22
+
+  - name: reseau.mk16.de (Looking Glass)
+    url: http://lg.reseau.mk16.de/
+
+  - name: p2p-router.de I2P reseed server
+    url: https://www2.mk16.de/
+
+  - name: p2p-router.de I2P reseed server (seed file)
+    url: https://www2.mk16.de/i2pseeds.su3
+    headers:
+      - "User-Agent: Wget/1.11.4"
+
+  - name: Website i2phides.me
+    url: https://i2phides.me/
+
+  - name: I2P inproxy
+    url: https://proxy.i2phides.me/
+    __dangerous__body_down_if_text_missing: 'I2P HTTP proxy OK'
+
+  - name: Website mk16.de
+    url: https://mk16.de/
+
+  - name: Website crxn.de
+    url: https://crxn.de/
+
+  - name: BgpLookup
+    url: https://dn42-bgplookup.mk16.de/
+
+  - name: BgpLookup data actuality
+    url: https://dn42-bgplookup.mk16.de/about
+    __dangerous__body_down_if_text_missing: 'Are the data up to date? Yes'
+
+  - name: auth.mk16.de Authelia
+    url: https://auth.mk16.de/
+
+  - name: mk16.de E-Mail (Netcup)
+    check: "tcp-ping"
+    url: mxe87b.netcup.net
+    port: 465
+
+  - name: dn42 wiki Woodpecker
+    url: https://ci.codeberg.org/api/badges/13114/status.svg
+    __dangerous__body_down_if_text_missing: 'success'
+
+  - name: dn42 wiki
+    url: https://dn42.obl.ong/
+
+  - name: n1.mk16.de DNS
+    check: "tcp-ping"
+    url: n1.mk16.de
+    port: 53
+
+  - name: n2.mk16.de DNS
+    check: "tcp-ping"
+    url: n2.mk16.de
+    port: 53
+
+  - name: n3.mk16.de DNS
+    check: "tcp-ping"
+    url: n3.mk16.de
+    port: 53
+
+  - name: n4.mk16.de DNS
+    check: "tcp-ping"
+    url: n4.mk16.de
+    port: 53
+
+  - name: n5.mk16.de DNS
+    check: "tcp-ping"
+    url: n5.mk16.de
+    port: 53
+
+assignees:
+  - marek22k
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status3.mk16.de
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: mk16.de
+      href: https://mk16.de/
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
