@@ -54,6 +54,11 @@ sites:
     url: frostwood.mk16.de
     port: 22
 
+  - name: srv.dn42-lab.de SSH
+    check: "tcp-ping"
+    url: srv.dn42-lab.de
+    port: 22
+
   - name: reseau.mk16.de SSH
     check: "tcp-ping"
     url: reseau.mk16.de
