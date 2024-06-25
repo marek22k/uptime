@@ -26,6 +26,7 @@ sites:
     check: "tcp-ping"
     url: palerme.mk16.de
     port: 22
+    ipv6: true
 
   - name: silvermoon.mk16.de SSH
     check: "tcp-ping"
@@ -36,6 +37,7 @@ sites:
     check: "tcp-ping"
     url: laplace.mk16.de
     port: 22
+    ipv6: true
 
   - name: stricker.mk16.de SSH
     check: "tcp-ping"
@@ -56,19 +58,23 @@ sites:
     check: "tcp-ping"
     url: reseau.mk16.de
     port: 22
+    ipv6: true
 
   - name: grisha.mk16.de SSH
     check: "tcp-ping"
     url: grisha.mk16.de
     port: 22
+    ipv6: true
 
   - name: mikhail.mk16.de SSH
     check: "tcp-ping"
     url: mikhail.mk16.de
     port: 22
+    ipv6: true
 
   - name: reseau.mk16.de (Looking Glass)
     url: http://lg.reseau.mk16.de/
+    ipv6: true
 
   - name: p2p-router.de I2P reseed server
     url: https://www2.mk16.de/
