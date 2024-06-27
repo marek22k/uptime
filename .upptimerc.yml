@@ -117,13 +117,6 @@ sites:
     url: mxe87b.netcup.net
     port: 465
 
-  - name: dn42 wiki Woodpecker
-    url: https://ci.codeberg.org/api/badges/13114/status.svg
-    __dangerous__body_down_if_text_missing: 'success'
-
-  - name: dn42 wiki
-    url: https://dn42.obl.ong/
-
   - name: n1.mk16.de DNS
     check: "tcp-ping"
     url: n1.mk16.de
