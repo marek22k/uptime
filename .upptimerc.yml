@@ -99,6 +99,9 @@ sites:
   - name: Website mk16.de
     url: https://mk16.de/
 
+  - name: Website bandura-comm.mk16.de
+    url: https://bandura-comm.mk16.de/
+
   - name: Website crxn.de
     url: https://crxn.de/
 
