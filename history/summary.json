@@ -58,9 +58,9 @@
     "url": "aurora.mk16.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aurora-mk16-de-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 30,
     "timeMonth": 37,
     "timeYear": 38,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-31": 0
+    }
   },
   {
     "name": "palerme.mk16.de SSH",
@@ -395,11 +397,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crxn.de.ico",
     "slug": "website-crxn-de",
     "status": "up",
-    "uptime": "88.50%",
+    "uptime": "88.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.50%",
+    "uptimeYear": "88.67%",
     "time": 729,
     "timeDay": 697,
     "timeWeek": 687,
