@@ -342,19 +342,19 @@
     "url": "https://proxy.i2phides.me/",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.i2phides.me.ico",
     "slug": "i2-p-inproxy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 683,
-    "timeWeek": 602,
-    "timeMonth": 623,
-    "timeYear": 628,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.92%",
+    "time": 630,
+    "timeDay": 692,
+    "timeWeek": 614,
+    "timeMonth": 626,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2024-08-15": 0
+      "2024-08-15": 55
     }
   },
   {
