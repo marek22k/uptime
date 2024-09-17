@@ -22,10 +22,10 @@
     "url": "p2p-router.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "p2p-router-de-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
@@ -33,7 +33,9 @@
     "timeWeek": 104,
     "timeMonth": 109,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 1
+    }
   },
   {
     "name": "herzstein.mk16.de SSH",
@@ -291,10 +293,10 @@
     "url": "https://www2.mk16.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www2.mk16.de.ico",
     "slug": "p2p-router-de-i2-p-reseed-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 662,
@@ -302,17 +304,19 @@
     "timeWeek": 652,
     "timeMonth": 700,
     "timeYear": 662,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 1
+    }
   },
   {
     "name": "p2p-router.de I2P reseed server (seed file)",
     "url": "https://www2.mk16.de/i2pseeds.su3",
     "icon": "https://icons.duckduckgo.com/ip3/www2.mk16.de.ico",
     "slug": "p2p-router-de-i2-p-reseed-server-seed-file",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 350,
@@ -320,17 +324,19 @@
     "timeWeek": 328,
     "timeMonth": 340,
     "timeYear": 350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 1
+    }
   },
   {
     "name": "Website i2phides.me",
     "url": "https://i2phides.me/",
     "icon": "https://icons.duckduckgo.com/ip3/i2phides.me.ico",
     "slug": "website-i2phides-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 657,
@@ -338,7 +344,9 @@
     "timeWeek": 699,
     "timeMonth": 634,
     "timeYear": 657,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 1
+    }
   },
   {
     "name": "I2P inproxy",
@@ -346,18 +354,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.i2phides.me.ico",
     "slug": "i2-p-inproxy",
     "status": "down",
-    "uptime": "90.44%",
+    "uptime": "89.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.00%",
-    "uptimeYear": "90.44%",
+    "uptimeMonth": "71.13%",
+    "uptimeYear": "89.51%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 682,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2024-09-17": 45,
+      "2024-09-17": 1301,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -412,11 +420,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crxn.de.ico",
     "slug": "website-crxn-de",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.14%",
+    "uptimeYear": "95.19%",
     "time": 714,
     "timeDay": 630,
     "timeWeek": 737,
@@ -561,9 +569,9 @@
     "url": "n4.mk16.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n4-mk16-de-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -572,7 +580,9 @@
     "timeWeek": 77,
     "timeMonth": 63,
     "timeYear": 59,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 0
+    }
   },
   {
     "name": "n5.mk16.de DNS",
