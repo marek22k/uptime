@@ -40,10 +40,10 @@
     "url": "herzstein.mk16.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "herzstein-mk16-de-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
@@ -51,7 +51,9 @@
     "timeWeek": 180,
     "timeMonth": 179,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 2
+    }
   },
   {
     "name": "aurora.mk16.de SSH",
@@ -346,18 +348,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.i2phides.me.ico",
     "slug": "i2-p-inproxy",
     "status": "down",
-    "uptime": "70.19%",
+    "uptime": "69.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.19%",
+    "uptimeYear": "69.98%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2024-10-11": 58,
+      "2024-10-11": 513,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -436,11 +438,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crxn.de.ico",
     "slug": "website-crxn-de",
     "status": "up",
-    "uptime": "96.23%",
+    "uptime": "96.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.23%",
+    "uptimeYear": "96.24%",
     "time": 742,
     "timeDay": 610,
     "timeWeek": 749,
@@ -567,9 +569,9 @@
     "url": "n3.mk16.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n3-mk16-de-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -578,7 +580,9 @@
     "timeWeek": 180,
     "timeMonth": 178,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 0
+    }
   },
   {
     "name": "n4.mk16.de DNS",
