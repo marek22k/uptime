@@ -22,10 +22,10 @@
     "url": "p2p-router.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "p2p-router-de-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
@@ -33,7 +33,9 @@
     "timeWeek": 134,
     "timeMonth": 121,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-11": 1
+    }
   },
   {
     "name": "herzstein.mk16.de SSH",
@@ -291,9 +293,9 @@
     "url": "https://www2.mk16.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www2.mk16.de.ico",
     "slug": "p2p-router-de-i2-p-reseed-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -302,18 +304,20 @@
     "timeWeek": 552,
     "timeMonth": 592,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-11": 0
+    }
   },
   {
     "name": "p2p-router.de I2P reseed server (seed file)",
     "url": "https://www2.mk16.de/i2pseeds.su3",
     "icon": "https://icons.duckduckgo.com/ip3/www2.mk16.de.ico",
     "slug": "p2p-router-de-i2-p-reseed-server-seed-file",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 355,
     "timeDay": 283,
@@ -321,6 +325,7 @@
     "timeMonth": 358,
     "timeYear": 355,
     "dailyMinutesDown": {
+      "2024-11-11": 0,
       "2024-10-18": 19
     }
   },
@@ -329,9 +334,9 @@
     "url": "https://i2phides.me/",
     "icon": "https://icons.duckduckgo.com/ip3/i2phides.me.ico",
     "slug": "website-i2phides-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -340,7 +345,9 @@
     "timeWeek": 650,
     "timeMonth": 638,
     "timeYear": 659,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-11": 0
+    }
   },
   {
     "name": "I2P inproxy",
@@ -348,18 +355,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.i2phides.me.ico",
     "slug": "i2-p-inproxy",
     "status": "down",
-    "uptime": "54.44%",
+    "uptime": "54.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.44%",
+    "uptimeYear": "54.13%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2024-11-11": 59,
+      "2024-11-11": 1186,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -469,11 +476,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crxn.de.ico",
     "slug": "website-crxn-de",
     "status": "up",
-    "uptime": "97.07%",
+    "uptime": "97.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.07%",
+    "uptimeYear": "97.09%",
     "time": 748,
     "timeDay": 634,
     "timeWeek": 801,
@@ -530,12 +537,12 @@
     "slug": "auth-mk16-de-authelia",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 581,
-    "timeDay": 452,
+    "timeDay": 373,
     "timeWeek": 605,
     "timeMonth": 546,
     "timeYear": 581,
@@ -584,9 +591,9 @@
     "url": "n2.mk16.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n2-mk16-de-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -595,7 +602,9 @@
     "timeWeek": 135,
     "timeMonth": 121,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-11": 0
+    }
   },
   {
     "name": "n3.mk16.de DNS",
