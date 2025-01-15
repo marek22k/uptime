@@ -162,9 +162,9 @@
     "url": "trolljaeger.mk16.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trolljaeger-mk16-de-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -173,7 +173,9 @@
     "timeWeek": 43,
     "timeMonth": 40,
     "timeYear": 43,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 0
+    }
   },
   {
     "name": "frostwood.mk16.de SSH",
@@ -360,18 +362,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.i2phides.me.ico",
     "slug": "i2-p-inproxy",
     "status": "down",
-    "uptime": "37.03%",
+    "uptime": "36.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.03%",
+    "uptimeYear": "36.98%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2025-01-15": 58,
+      "2025-01-15": 418,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
