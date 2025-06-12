@@ -4,10 +4,10 @@
     "url": "p2p-node.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "p2p-node-de-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
@@ -15,17 +15,19 @@
     "timeWeek": 106,
     "timeMonth": 112,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-12": 2
+    }
   },
   {
     "name": "p2p-router.de SSH",
     "url": "p2p-router.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "p2p-router-de-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
@@ -34,6 +36,7 @@
     "timeMonth": 113,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2025-06-12": 2,
       "2024-11-24": 21
     }
   },
@@ -279,10 +282,10 @@
     "url": "https://www2.mk16.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www2.mk16.de.ico",
     "slug": "p2p-router-de-i2-p-reseed-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 653,
@@ -291,6 +294,7 @@
     "timeMonth": 659,
     "timeYear": 653,
     "dailyMinutesDown": {
+      "2025-06-12": 1,
       "2024-11-24": 21
     }
   },
@@ -299,10 +303,10 @@
     "url": "https://www2.mk16.de/i2pseeds.su3",
     "icon": "https://icons.duckduckgo.com/ip3/www2.mk16.de.ico",
     "slug": "p2p-router-de-i2-p-reseed-server-seed-file",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 347,
@@ -311,6 +315,7 @@
     "timeMonth": 328,
     "timeYear": 347,
     "dailyMinutesDown": {
+      "2025-06-12": 1,
       "2025-05-27": 16,
       "2025-05-10": 66,
       "2025-04-22": 111,
@@ -327,10 +332,10 @@
     "url": "https://i2phides.me/",
     "icon": "https://icons.duckduckgo.com/ip3/i2phides.me.ico",
     "slug": "website-i2phides-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 660,
@@ -339,6 +344,7 @@
     "timeMonth": 691,
     "timeYear": 660,
     "dailyMinutesDown": {
+      "2025-06-12": 1,
       "2024-11-24": 21
     }
   },
@@ -348,18 +354,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.i2phides.me.ico",
     "slug": "i2-p-inproxy",
     "status": "down",
-    "uptime": "21.42%",
+    "uptime": "21.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.42%",
+    "uptimeYear": "21.39%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2025-06-12": 13,
+      "2025-06-12": 739,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
