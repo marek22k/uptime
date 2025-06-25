@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 162,
+    "time": 119,
+    "timeDay": 93,
     "timeWeek": 118,
-    "timeMonth": 113,
-    "timeYear": 120,
+    "timeMonth": 112,
+    "timeYear": 119,
     "dailyMinutesDown": {
       "2025-06-12": 18
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 117,
-    "timeDay": 162,
+    "timeDay": 93,
     "timeWeek": 118,
-    "timeMonth": 113,
+    "timeMonth": 112,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2025-06-12": 18,
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 164,
+    "timeDay": 211,
     "timeWeek": 191,
-    "timeMonth": 199,
+    "timeMonth": 200,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 40,
-    "timeDay": 64,
-    "timeWeek": 37,
-    "timeMonth": 34,
+    "timeDay": 34,
+    "timeWeek": 38,
+    "timeMonth": 35,
     "timeYear": 40,
     "dailyMinutesDown": {
       "2024-07-31": 43
@@ -94,9 +94,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-06-25": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "silvermoon.mk16.de SSH",
@@ -109,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 130,
-    "timeDay": 177,
+    "time": 129,
+    "timeDay": 108,
     "timeWeek": 137,
-    "timeMonth": 130,
-    "timeYear": 130,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2025-04-27": 17,
       "2024-09-13": 32,
@@ -136,9 +134,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-06-25": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "stricker.mk16.de SSH",
@@ -152,7 +148,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 57,
-    "timeDay": 16,
+    "timeDay": 74,
     "timeWeek": 55,
     "timeMonth": 61,
     "timeYear": 57,
@@ -173,7 +169,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 162,
+    "timeDay": 93,
     "timeWeek": 118,
     "timeMonth": 112,
     "timeYear": 119,
@@ -191,9 +187,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 162,
+    "timeDay": 93,
     "timeWeek": 118,
-    "timeMonth": 113,
+    "timeMonth": 112,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -213,9 +209,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-06-25": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "grisha.mk16.de SSH",
@@ -233,9 +227,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-06-25": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mikhail.mk16.de SSH",
@@ -253,9 +245,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-06-25": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "reseau.mk16.de (Looking Glass)",
@@ -273,9 +263,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-06-25": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "p2p-router.de I2P reseed server",
@@ -288,11 +276,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 651,
-    "timeDay": 675,
-    "timeWeek": 689,
-    "timeMonth": 638,
-    "timeYear": 651,
+    "time": 650,
+    "timeDay": 412,
+    "timeWeek": 621,
+    "timeMonth": 632,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2025-06-12": 17,
       "2024-11-24": 21
@@ -310,9 +298,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 347,
-    "timeDay": 496,
-    "timeWeek": 358,
-    "timeMonth": 335,
+    "timeDay": 285,
+    "timeWeek": 359,
+    "timeMonth": 333,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2025-06-12": 16,
@@ -338,11 +326,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 660,
-    "timeDay": 729,
-    "timeWeek": 672,
-    "timeMonth": 689,
-    "timeYear": 660,
+    "time": 659,
+    "timeDay": 406,
+    "timeWeek": 646,
+    "timeMonth": 668,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2025-06-12": 16,
       "2024-11-24": 21
@@ -354,18 +342,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.i2phides.me.ico",
     "slug": "i2-p-inproxy",
     "status": "down",
-    "uptime": "20.72%",
+    "uptime": "20.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.72%",
+    "uptimeYear": "20.66%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2025-06-24": 13,
+      "2025-06-25": 13,
+      "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -669,11 +658,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 617,
-    "timeDay": 697,
-    "timeWeek": 490,
-    "timeMonth": 586,
-    "timeYear": 617,
+    "time": 616,
+    "timeDay": 506,
+    "timeWeek": 502,
+    "timeMonth": 573,
+    "timeYear": 616,
     "dailyMinutesDown": {}
   },
   {
@@ -687,11 +676,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 529,
-    "timeWeek": 616,
-    "timeMonth": 622,
-    "timeYear": 597,
+    "time": 596,
+    "timeDay": 397,
+    "timeWeek": 576,
+    "timeMonth": 616,
+    "timeYear": 596,
     "dailyMinutesDown": {}
   },
   {
@@ -706,16 +695,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.89%",
     "time": 764,
-    "timeDay": 929,
-    "timeWeek": 745,
-    "timeMonth": 744,
+    "timeDay": 745,
+    "timeWeek": 763,
+    "timeMonth": 745,
     "timeYear": 764,
     "dailyMinutesDown": {
       "2024-06-29": 1289,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
-      "2024-06-26": 1440,
-      "2024-06-25": 216
+      "2024-06-26": 1440
     }
   },
   {
@@ -729,11 +717,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 534,
-    "timeWeek": 573,
-    "timeMonth": 571,
-    "timeYear": 580,
+    "time": 579,
+    "timeDay": 503,
+    "timeWeek": 510,
+    "timeMonth": 572,
+    "timeYear": 579,
     "dailyMinutesDown": {}
   },
   {
@@ -747,11 +735,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 210,
-    "timeDay": 271,
-    "timeWeek": 212,
-    "timeMonth": 201,
-    "timeYear": 210,
+    "time": 209,
+    "timeDay": 172,
+    "timeWeek": 210,
+    "timeMonth": 200,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2024-11-29": 1334,
       "2024-11-28": 780,
@@ -770,8 +758,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 543,
-    "timeDay": 740,
-    "timeWeek": 535,
+    "timeDay": 492,
+    "timeWeek": 515,
     "timeMonth": 506,
     "timeYear": 543,
     "dailyMinutesDown": {
@@ -789,11 +777,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 163,
+    "time": 118,
+    "timeDay": 93,
     "timeWeek": 119,
-    "timeMonth": 113,
-    "timeYear": 119,
+    "timeMonth": 112,
+    "timeYear": 118,
     "dailyMinutesDown": {}
   },
   {
@@ -808,9 +796,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 162,
+    "timeDay": 93,
     "timeWeek": 118,
-    "timeMonth": 113,
+    "timeMonth": 112,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -826,9 +814,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 163,
+    "timeDay": 93,
     "timeWeek": 118,
-    "timeMonth": 113,
+    "timeMonth": 112,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2024-11-24": 20
@@ -846,9 +834,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 164,
+    "timeDay": 210,
     "timeWeek": 190,
-    "timeMonth": 199,
+    "timeMonth": 200,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -864,9 +852,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 57,
-    "timeDay": 16,
+    "timeDay": 73,
     "timeWeek": 55,
-    "timeMonth": 61,
+    "timeMonth": 60,
     "timeYear": 57,
     "dailyMinutesDown": {
       "2024-12-31": 96,
@@ -884,11 +872,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 130,
-    "timeDay": 175,
+    "time": 129,
+    "timeDay": 106,
     "timeWeek": 137,
-    "timeMonth": 131,
-    "timeYear": 130,
+    "timeMonth": 130,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2025-04-27": 16,
       "2024-09-13": 42,
