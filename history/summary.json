@@ -4,11 +4,11 @@
     "url": "p2p-node.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "p2p-node-de-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 91,
@@ -16,6 +16,7 @@
     "timeMonth": 113,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2025-06-27": 4,
       "2025-06-12": 18
     }
   },
@@ -342,18 +343,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.i2phides.me.ico",
     "slug": "i2-p-inproxy",
     "status": "down",
-    "uptime": "20.55%",
+    "uptime": "20.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.29%",
+    "uptimeYear": "20.28%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-06-27": 43,
+      "2025-06-27": 76,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -655,18 +656,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mk16.de.ico",
     "slug": "website-mk16-de",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 616,
     "timeDay": 604,
     "timeWeek": 539,
     "timeMonth": 563,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2025-06-27": 1
+      "2025-06-27": 35
     }
   },
   {
@@ -675,18 +676,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bandura-comm.mk16.de.ico",
     "slug": "website-bandura-comm-mk16-de",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 596,
     "timeDay": 650,
     "timeWeek": 624,
     "timeMonth": 612,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2025-06-27": 1,
+      "2025-06-27": 34,
       "2025-06-26": 15
     }
   },
@@ -697,9 +698,9 @@
     "slug": "website-crxn-de",
     "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.21%",
     "time": 763,
     "timeDay": 653,
@@ -707,7 +708,7 @@
     "timeMonth": 742,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2025-06-27": 1,
+      "2025-06-27": 34,
       "2025-06-26": 15,
       "2024-06-29": 1289,
       "2024-06-28": 1440
@@ -718,10 +719,10 @@
     "url": "https://dn42-bgplookup.mk16.de/",
     "icon": "https://icons.duckduckgo.com/ip3/dn42-bgplookup.mk16.de.ico",
     "slug": "bgp-lookup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
@@ -729,17 +730,19 @@
     "timeWeek": 576,
     "timeMonth": 587,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-27": 2
+    }
   },
   {
     "name": "BgpLookup data actuality",
     "url": "https://dn42-bgplookup.mk16.de/about",
     "icon": "https://icons.duckduckgo.com/ip3/dn42-bgplookup.mk16.de.ico",
     "slug": "bgp-lookup-data-actuality",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 210,
@@ -748,6 +751,7 @@
     "timeMonth": 202,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2025-06-27": 2,
       "2024-11-29": 1334,
       "2024-11-28": 780,
       "2024-11-27": 70
@@ -796,9 +800,9 @@
     "url": "n1.mk16.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n1-mk16-de-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -807,7 +811,9 @@
     "timeWeek": 122,
     "timeMonth": 113,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-27": 0
+    }
   },
   {
     "name": "n2.mk16.de DNS",
