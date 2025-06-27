@@ -4,10 +4,10 @@
     "url": "p2p-node.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "p2p-node-de-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 120,
@@ -16,7 +16,7 @@
     "timeMonth": 113,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-06-27": 42,
+      "2025-06-27": 45,
       "2025-06-12": 18
     }
   },
@@ -281,7 +281,7 @@
     "timeDay": 490,
     "timeWeek": 557,
     "timeMonth": 597,
-    "timeYear": 651,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2025-06-12": 17,
       "2024-11-24": 21
@@ -296,12 +296,12 @@
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 347,
     "timeDay": 226,
     "timeWeek": 333,
-    "timeMonth": 329,
+    "timeMonth": 334,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2025-06-12": 16,
@@ -343,18 +343,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.i2phides.me.ico",
     "slug": "i2-p-inproxy",
     "status": "down",
-    "uptime": "20.52%",
+    "uptime": "20.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.17%",
+    "uptimeYear": "20.10%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 636,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2025-06-27": 648,
+      "2025-06-27": 1056,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -655,10 +655,10 @@
     "url": "https://mk16.de/",
     "icon": "https://icons.duckduckgo.com/ip3/mk16.de.ico",
     "slug": "website-mk16-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "99.27%",
+    "uptimeDay": "94.70%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
     "time": 618,
@@ -667,7 +667,7 @@
     "timeMonth": 582,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2025-06-27": 73
+      "2025-06-27": 76
     }
   },
   {
@@ -675,11 +675,11 @@
     "url": "https://bandura-comm.mk16.de/",
     "icon": "https://icons.duckduckgo.com/ip3/bandura-comm.mk16.de.ico",
     "slug": "website-bandura-comm-mk16-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.93%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "94.74%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 596,
     "timeDay": 487,
@@ -687,7 +687,7 @@
     "timeMonth": 608,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2025-06-27": 73,
+      "2025-06-27": 76,
       "2025-06-26": 15
     }
   },
@@ -696,19 +696,19 @@
     "url": "https://crxn.de/",
     "icon": "https://icons.duckduckgo.com/ip3/crxn.de.ico",
     "slug": "website-crxn-de",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "94.95%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.39%",
     "time": 764,
     "timeDay": 768,
     "timeWeek": 776,
     "timeMonth": 746,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2025-06-27": 73,
+      "2025-06-27": 75,
       "2025-06-26": 15,
       "2024-06-29": 1289,
       "2024-06-28": 1440
@@ -719,11 +719,11 @@
     "url": "https://dn42-bgplookup.mk16.de/",
     "icon": "https://icons.duckduckgo.com/ip3/dn42-bgplookup.mk16.de.ico",
     "slug": "bgp-lookup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 581,
     "timeDay": 798,
@@ -731,7 +731,7 @@
     "timeMonth": 606,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-06-27": 41
+      "2025-06-27": 43
     }
   },
   {
@@ -739,11 +739,11 @@
     "url": "https://dn42-bgplookup.mk16.de/about",
     "icon": "https://icons.duckduckgo.com/ip3/dn42-bgplookup.mk16.de.ico",
     "slug": "bgp-lookup-data-actuality",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "97.18%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.58%",
     "time": 210,
     "timeDay": 219,
@@ -751,7 +751,7 @@
     "timeMonth": 204,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-06-27": 41,
+      "2025-06-27": 43,
       "2024-11-29": 1334,
       "2024-11-28": 780,
       "2024-11-27": 70
@@ -800,10 +800,10 @@
     "url": "n1.mk16.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n1-mk16-de-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 118,
@@ -812,7 +812,7 @@
     "timeMonth": 113,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-06-27": 39
+      "2025-06-27": 40
     }
   },
   {
@@ -881,9 +881,9 @@
     "slug": "n5-mk16-de-dns",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 130,
     "timeDay": 128,
@@ -891,7 +891,6 @@
     "timeMonth": 131,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-06-27": 11,
       "2025-04-27": 16,
       "2024-09-13": 42,
       "2024-09-02": 18,
