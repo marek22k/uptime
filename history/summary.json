@@ -353,7 +353,7 @@
     "timeMonth": 0,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-06-27": 13,
+      "2025-06-27": 43,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -654,10 +654,10 @@
     "url": "https://mk16.de/",
     "icon": "https://icons.duckduckgo.com/ip3/mk16.de.ico",
     "slug": "website-mk16-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 616,
@@ -665,17 +665,19 @@
     "timeWeek": 539,
     "timeMonth": 563,
     "timeYear": 615,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-27": 1
+    }
   },
   {
     "name": "Website bandura-comm.mk16.de",
     "url": "https://bandura-comm.mk16.de/",
     "icon": "https://icons.duckduckgo.com/ip3/bandura-comm.mk16.de.ico",
     "slug": "website-bandura-comm-mk16-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 596,
@@ -684,6 +686,7 @@
     "timeMonth": 612,
     "timeYear": 596,
     "dailyMinutesDown": {
+      "2025-06-27": 1,
       "2025-06-26": 15
     }
   },
@@ -692,11 +695,11 @@
     "url": "https://crxn.de/",
     "icon": "https://icons.duckduckgo.com/ip3/crxn.de.ico",
     "slug": "website-crxn-de",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.21%",
     "time": 763,
     "timeDay": 653,
@@ -704,6 +707,7 @@
     "timeMonth": 742,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2025-06-27": 1,
       "2025-06-26": 15,
       "2024-06-29": 1289,
       "2024-06-28": 1440
