@@ -25,9 +25,9 @@
     "url": "p2p-router.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "p2p-router-de-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -37,6 +37,7 @@
     "timeMonth": 130,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2025-11-23": 0,
       "2025-06-12": 18,
       "2024-11-24": 21
     }
@@ -272,9 +273,9 @@
     "slug": "p2p-router-de-i2-p-reseed-server",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 645,
     "timeDay": 517,
@@ -282,7 +283,6 @@
     "timeMonth": 571,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2025-11-23": 8,
       "2025-06-12": 17,
       "2024-11-24": 21
     }
@@ -294,9 +294,9 @@
     "slug": "p2p-router-de-i2-p-reseed-server-seed-file",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 348,
     "timeDay": 477,
@@ -304,7 +304,6 @@
     "timeMonth": 382,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2025-11-23": 8,
       "2025-06-12": 16,
       "2025-05-27": 16,
       "2025-05-10": 66,
@@ -322,10 +321,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/i2phides.me.ico",
     "slug": "website-i2phides-me",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 660,
     "timeDay": 1088,
@@ -333,7 +332,6 @@
     "timeMonth": 730,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2025-11-23": 8,
       "2025-06-12": 16,
       "2024-11-24": 21
     }
