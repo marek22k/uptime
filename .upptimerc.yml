@@ -44,6 +44,11 @@ sites:
     url: stricker.mk16.de
     port: 22
 
+  - name: trolljaeger.mk16.de SSH
+    check: "tcp-ping"
+    url: trolljaeger.mk16.de
+    port: 22
+
   - name: frostwood.mk16.de SSH
     check: "tcp-ping"
     url: frostwood.mk16.de
