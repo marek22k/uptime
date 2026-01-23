@@ -149,7 +149,7 @@
     "uptime": "94.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.15%",
+    "uptimeMonth": "70.27%",
     "uptimeYear": "90.59%",
     "time": 53,
     "timeDay": 90,
@@ -548,8 +548,7 @@
       "2025-05-27": 16,
       "2025-05-10": 66,
       "2025-04-22": 111,
-      "2025-01-27": 17,
-      "2025-01-23": 18
+      "2025-01-27": 17
     }
   },
   {
@@ -582,7 +581,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.73%",
+    "uptimeYear": "40.74%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -804,8 +803,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   },
   {
@@ -835,18 +833,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bandura-comm.mk16.de.ico",
     "slug": "website-bandura-comm-mk16-de",
     "status": "down",
-    "uptime": "95.24%",
+    "uptime": "95.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.99%",
-    "uptimeYear": "92.56%",
+    "uptimeMonth": "10.87%",
+    "uptimeYear": "92.55%",
     "time": 579,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 524,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2026-01-22": 1404,
+      "2026-01-23": 15,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
