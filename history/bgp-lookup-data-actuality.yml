@@ -1,7 +1,7 @@
 url: https://dn42-bgplookup.mk16.de/about
-status: up
-code: 200
-responseTime: 129
-lastUpdated: 2026-01-24T03:02:33.480Z
+status: down
+code: 500
+responseTime: 105
+lastUpdated: 2026-01-24T06:46:41.098Z
 startTime: 2024-06-25T20:23:35.742Z
 generator: Upptime <https://github.com/upptime/upptime>
