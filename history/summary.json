@@ -777,8 +777,7 @@
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
-      "2025-02-25": 1440,
-      "2025-02-24": 1440
+      "2025-02-25": 1440
     }
   },
   {
@@ -808,18 +807,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bandura-comm.mk16.de.ico",
     "slug": "website-bandura-comm-mk16-de",
     "status": "down",
-    "uptime": "90.18%",
+    "uptime": "90.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.79%",
+    "uptimeYear": "83.78%",
     "time": 572,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2026-02-23": 1434,
+      "2026-02-24": 19,
+      "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
