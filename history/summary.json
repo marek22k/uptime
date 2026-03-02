@@ -809,7 +809,7 @@
     "timeMonth": 0,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2026-03-02": 631,
+      "2026-03-02": 654,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -929,19 +929,19 @@
     "url": "https://dn42-bgplookup.mk16.de/about",
     "icon": "https://icons.duckduckgo.com/ip3/dn42-bgplookup.mk16.de.ico",
     "slug": "bgp-lookup-data-actuality",
-    "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "81.15%",
+    "status": "down",
+    "uptime": "98.22%",
+    "uptimeDay": "81.10%",
     "uptimeWeek": "86.36%",
     "uptimeMonth": "69.53%",
-    "uptimeYear": "96.98%",
+    "uptimeYear": "97.01%",
     "time": 178,
-    "timeDay": 129,
+    "timeDay": 127,
     "timeWeek": 128,
     "timeMonth": 130,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2026-03-02": 88,
+      "2026-03-02": 89,
       "2026-03-01": 366,
       "2026-02-28": 333,
       "2026-02-27": 61,
@@ -989,8 +989,7 @@
       "2026-01-16": 80,
       "2026-01-15": 87,
       "2026-01-14": 163,
-      "2026-01-13": 109,
-      "2026-01-12": 135
+      "2026-01-13": 109
     }
   },
   {
