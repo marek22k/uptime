@@ -388,8 +388,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 1440
+      "2025-03-09": 1440
     }
   },
   {
@@ -579,7 +578,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.78%",
+    "uptimeYear": "52.79%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -757,8 +756,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 1440
+      "2025-03-09": 1440
     }
   },
   {
@@ -788,7 +786,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bandura-comm.mk16.de.ico",
     "slug": "website-bandura-comm-mk16-de",
     "status": "down",
-    "uptime": "88.42%",
+    "uptime": "88.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -799,7 +797,8 @@
     "timeMonth": 0,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2026-03-07": 1417,
+      "2026-03-08": 17,
+      "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -926,17 +925,18 @@
     "slug": "bgp-lookup-data-actuality",
     "status": "down",
     "uptime": "98.26%",
-    "uptimeDay": "83.66%",
+    "uptimeDay": "80.84%",
     "uptimeWeek": "84.79%",
-    "uptimeMonth": "68.88%",
-    "uptimeYear": "97.05%",
+    "uptimeMonth": "68.79%",
+    "uptimeYear": "97.04%",
     "time": 173,
     "timeDay": 137,
     "timeWeek": 134,
     "timeMonth": 131,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2026-03-07": 236,
+      "2026-03-08": 17,
+      "2026-03-07": 259,
       "2026-03-06": 121,
       "2026-03-05": 422,
       "2026-03-04": 40,
