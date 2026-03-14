@@ -790,7 +790,7 @@
     "timeMonth": 0,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2026-03-14": 858,
+      "2026-03-14": 875,
       "2026-03-13": 1440,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
@@ -926,7 +926,7 @@
     "uptime": "97.77%",
     "uptimeDay": "96.60%",
     "uptimeWeek": "50.55%",
-    "uptimeMonth": "77.58%",
+    "uptimeMonth": "77.62%",
     "uptimeYear": "96.17%",
     "time": 171,
     "timeDay": 121,
@@ -989,19 +989,19 @@
     "url": "https://auth.mk16.de/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.mk16.de.ico",
     "slug": "auth-mk16-de-authelia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 561,
-    "timeDay": 490,
-    "timeWeek": 490,
-    "timeMonth": 517,
+    "timeDay": 471,
+    "timeWeek": 484,
+    "timeMonth": 514,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2026-03-14": 1
+      "2026-03-14": 16
     }
   },
   {
