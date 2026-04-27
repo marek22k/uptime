@@ -59,6 +59,11 @@ sites:
     url: srv.dn42-lab.de
     port: 22
 
+  - name: bytebunny.mk16.de SSH
+    check: "tcp-ping"
+    url: bytebunny.mk16.de
+    port: 22
+
   - name: reseau.mk16.de SSH
     check: "tcp-ping"
     url: reseau.mk16.de
@@ -92,15 +97,8 @@ sites:
   - name: Website i2phides.me
     url: https://i2phides.me/
 
-  - name: I2P inproxy
-    url: https://proxy.i2phides.me/
-    __dangerous__body_down_if_text_missing: 'I2P HTTP proxy OK'
-
   - name: Website mk16.de
     url: https://mk16.de/
-
-  - name: Website bandura-comm.mk16.de
-    url: https://bandura-comm.mk16.de/
 
   - name: Website crxn.de
     url: https://crxn.de/
