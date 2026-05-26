@@ -211,7 +211,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.15%",
+    "uptimeYear": "48.20%",
     "time": 36,
     "timeDay": 57,
     "timeWeek": 48,
@@ -367,7 +367,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 459,
+      "2026-05-26": 531,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -612,16 +612,16 @@
     "url": "https://dn42-bgplookup.mk16.de/about",
     "icon": "https://icons.duckduckgo.com/ip3/dn42-bgplookup.mk16.de.ico",
     "slug": "bgp-lookup-data-actuality",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "88.48%",
-    "uptimeWeek": "93.60%",
-    "uptimeMonth": "90.00%",
-    "uptimeYear": "98.74%",
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "83.53%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "89.83%",
+    "uptimeYear": "98.73%",
     "time": 179,
-    "timeDay": 416,
-    "timeWeek": 390,
-    "timeMonth": 291,
+    "timeDay": 424,
+    "timeWeek": 393,
+    "timeMonth": 292,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2026-03-14": 47,
@@ -677,7 +677,7 @@
       "2026-05-23": 115,
       "2026-05-24": 65,
       "2026-05-25": 88,
-      "2026-05-26": 78
+      "2026-05-26": 149
     }
   },
   {
