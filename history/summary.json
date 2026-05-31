@@ -14,7 +14,7 @@
     "timeDay": 141,
     "timeWeek": 119,
     "timeMonth": 127,
-    "timeYear": 121,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2025-06-12": 18,
       "2025-06-27": 42
@@ -56,7 +56,7 @@
     "timeDay": 173,
     "timeWeek": 185,
     "timeMonth": 174,
-    "timeYear": 185,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   },
   {
@@ -207,11 +207,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trolljaeger-mk16-de-ssh",
     "status": "up",
-    "uptime": "2.49%",
+    "uptime": "2.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.73%",
+    "uptimeYear": "52.79%",
     "time": 36,
     "timeDay": 47,
     "timeWeek": 24,
@@ -362,7 +362,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-31": 1292,
+      "2026-05-31": 1392,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -600,7 +600,7 @@
     "timeDay": 562,
     "timeWeek": 498,
     "timeMonth": 547,
-    "timeYear": 580,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2025-06-27": 41,
       "2025-09-16": 15
@@ -611,19 +611,19 @@
     "url": "https://dn42-bgplookup.mk16.de/about",
     "icon": "https://icons.duckduckgo.com/ip3/dn42-bgplookup.mk16.de.ico",
     "slug": "bgp-lookup-data-actuality",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "61.31%",
-    "uptimeWeek": "83.49%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "62.89%",
+    "uptimeWeek": "83.48%",
     "uptimeMonth": "87.40%",
-    "uptimeYear": "98.59%",
+    "uptimeYear": "98.61%",
     "time": 186,
     "timeDay": 384,
-    "timeWeek": 375,
+    "timeWeek": 373,
     "timeMonth": 324,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2026-04-02": 131,
+      "2026-04-02": 39,
       "2026-04-03": 98,
       "2026-04-04": 121,
       "2026-04-05": 86,
@@ -670,7 +670,7 @@
       "2026-05-28": 67,
       "2026-05-29": 489,
       "2026-05-30": 294,
-      "2026-05-31": 532
+      "2026-05-31": 533
     }
   },
   {
@@ -729,7 +729,7 @@
     "timeDay": 139,
     "timeWeek": 118,
     "timeMonth": 127,
-    "timeYear": 121,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2025-06-27": 39
     }
