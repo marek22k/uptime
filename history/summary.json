@@ -207,11 +207,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trolljaeger-mk16-de-ssh",
     "status": "up",
-    "uptime": "3.06%",
+    "uptime": "3.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.60%",
+    "uptimeYear": "53.62%",
     "time": 36,
     "timeDay": 7,
     "timeWeek": 11,
@@ -304,7 +304,6 @@
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
-      "2025-06-02": 1440,
       "2026-03-11": 19
     }
   },
@@ -361,7 +360,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 1419,
+      "2026-06-02": 22,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -611,14 +611,14 @@
     "url": "https://dn42-bgplookup.mk16.de/about",
     "icon": "https://icons.duckduckgo.com/ip3/dn42-bgplookup.mk16.de.ico",
     "slug": "bgp-lookup-data-actuality",
-    "status": "down",
+    "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "55.95%",
-    "uptimeWeek": "77.80%",
-    "uptimeMonth": "86.24%",
+    "uptimeDay": "56.00%",
+    "uptimeWeek": "77.38%",
+    "uptimeMonth": "86.15%",
     "uptimeYear": "98.53%",
     "time": 188,
-    "timeDay": 346,
+    "timeDay": 343,
     "timeWeek": 362,
     "timeMonth": 334,
     "timeYear": 184,
@@ -668,7 +668,8 @@
       "2026-05-29": 489,
       "2026-05-30": 294,
       "2026-05-31": 580,
-      "2026-06-01": 614
+      "2026-06-01": 634,
+      "2026-06-02": 21
     }
   },
   {
