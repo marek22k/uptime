@@ -207,11 +207,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trolljaeger-mk16-de-ssh",
     "status": "up",
-    "uptime": "5.10%",
+    "uptime": "5.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "56.67%",
+    "uptimeYear": "56.70%",
     "time": 35,
     "timeDay": 19,
     "timeWeek": 24,
@@ -300,7 +300,6 @@
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
-      "2025-06-06": 1440,
       "2026-03-11": 19
     }
   },
@@ -357,7 +356,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 1417,
+      "2026-06-06": 18,
+      "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -484,7 +484,7 @@
     "uptimeYear": "99.99%",
     "time": 625,
     "timeDay": 517,
-    "timeWeek": 683,
+    "timeWeek": 710,
     "timeMonth": 597,
     "timeYear": 611,
     "dailyMinutesDown": {
@@ -506,7 +506,7 @@
     "uptimeYear": "99.96%",
     "time": 361,
     "timeDay": 584,
-    "timeWeek": 592,
+    "timeWeek": 604,
     "timeMonth": 652,
     "timeYear": 372,
     "dailyMinutesDown": {
@@ -534,7 +534,7 @@
     "uptimeYear": "99.99%",
     "time": 656,
     "timeDay": 540,
-    "timeWeek": 511,
+    "timeWeek": 526,
     "timeMonth": 566,
     "timeYear": 654,
     "dailyMinutesDown": {
@@ -555,7 +555,7 @@
     "uptimeYear": "99.98%",
     "time": 624,
     "timeDay": 538,
-    "timeWeek": 531,
+    "timeWeek": 546,
     "timeMonth": 586,
     "timeYear": 619,
     "dailyMinutesDown": {
@@ -576,7 +576,7 @@
     "uptimeYear": "99.98%",
     "time": 814,
     "timeDay": 977,
-    "timeWeek": 1046,
+    "timeWeek": 1077,
     "timeMonth": 1144,
     "timeYear": 825,
     "dailyMinutesDown": {
@@ -598,7 +598,7 @@
     "uptimeYear": "99.99%",
     "time": 577,
     "timeDay": 471,
-    "timeWeek": 571,
+    "timeWeek": 595,
     "timeMonth": 544,
     "timeYear": 580,
     "dailyMinutesDown": {
@@ -611,15 +611,15 @@
     "url": "https://dn42-bgplookup.mk16.de/about",
     "icon": "https://icons.duckduckgo.com/ip3/dn42-bgplookup.mk16.de.ico",
     "slug": "bgp-lookup-data-actuality",
-    "status": "down",
+    "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "45.41%",
-    "uptimeWeek": "57.33%",
-    "uptimeMonth": "81.59%",
-    "uptimeYear": "98.22%",
+    "uptimeDay": "43.53%",
+    "uptimeWeek": "57.04%",
+    "uptimeMonth": "81.49%",
+    "uptimeYear": "98.21%",
     "time": 194,
-    "timeDay": 344,
-    "timeWeek": 363,
+    "timeDay": 338,
+    "timeWeek": 364,
     "timeMonth": 373,
     "timeYear": 192,
     "dailyMinutesDown": {
@@ -661,7 +661,8 @@
       "2026-06-02": 405,
       "2026-06-03": 882,
       "2026-06-04": 719,
-      "2026-06-05": 773
+      "2026-06-05": 796,
+      "2026-06-06": 18
     }
   },
   {
@@ -698,7 +699,7 @@
     "uptimeYear": "99.99%",
     "time": 121,
     "timeDay": 109,
-    "timeWeek": 115,
+    "timeWeek": 118,
     "timeMonth": 124,
     "timeYear": 122,
     "dailyMinutesDown": {
@@ -718,7 +719,7 @@
     "uptimeYear": "99.99%",
     "time": 121,
     "timeDay": 109,
-    "timeWeek": 115,
+    "timeWeek": 118,
     "timeMonth": 124,
     "timeYear": 122,
     "dailyMinutesDown": {
@@ -738,7 +739,7 @@
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 109,
-    "timeWeek": 110,
+    "timeWeek": 112,
     "timeMonth": 120,
     "timeYear": 119,
     "dailyMinutesDown": {}
@@ -756,7 +757,7 @@
     "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 176,
-    "timeWeek": 184,
+    "timeWeek": 182,
     "timeMonth": 177,
     "timeYear": 183,
     "dailyMinutesDown": {}
@@ -774,7 +775,7 @@
     "uptimeYear": "99.66%",
     "time": 50,
     "timeDay": 25,
-    "timeWeek": 32,
+    "timeWeek": 34,
     "timeMonth": 43,
     "timeYear": 48,
     "dailyMinutesDown": {
@@ -798,7 +799,7 @@
     "uptimeYear": "99.93%",
     "time": 141,
     "timeDay": 119,
-    "timeWeek": 120,
+    "timeWeek": 123,
     "timeMonth": 131,
     "timeYear": 142,
     "dailyMinutesDown": {
