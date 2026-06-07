@@ -106,9 +106,9 @@ sites:
   - name: BgpLookup
     url: https://dn42-bgplookup.mk16.de/
 
-  - name: BgpLookup data actuality
-    url: https://dn42-bgplookup.mk16.de/about
-    __dangerous__body_down_if_text_missing: 'Are the data up to date? Yes'
+#  - name: BgpLookup data actuality
+#    url: https://dn42-bgplookup.mk16.de/about
+#    __dangerous__body_down_if_text_missing: 'Are the data up to date? Yes'
 
   - name: auth.mk16.de Authelia
     url: https://auth.mk16.de/
